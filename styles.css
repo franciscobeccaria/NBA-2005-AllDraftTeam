@@ -1,0 +1,60 @@
+body {
+  background-color: #2C3035;
+}
+
+.title {
+  font-family: Raleway;
+  margin-top: 50px;
+  margin-bottom: 40px;
+  text-align: center;
+  color: white;
+}
+
+.rect {
+  margin: auto;
+  width: 65%;
+  height: 200px;
+  background-color: white;
+  /* margin-top: 100px; */
+  border-radius: 10px;
+}
+
+.rect-rest {
+  margin: auto;
+  width: 65%;
+  height: 200px;
+  background-color: white;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+.player-image {
+  width: 92px;
+  margin: 31px 10px 31px 20px;
+  border-color: #2C3035;
+  border: 0.5px solid;
+  padding: 0.4px;
+}
+
+.player-name {
+  font-family: Raleway;
+  margin-top: -170px;
+  margin-left: 130px;
+}
+
+.p-info {
+  font-family: Open Sans;
+  font-weight: bold;
+  font-size: 14px;
+  margin-left: 130px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.position {
+  font-family: Raleway;
+  margin-top: -70px;
+  margin-left: -100px;
+  color: white;
+  font-size: 50px;
+}
