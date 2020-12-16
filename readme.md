@@ -1,6 +1,8 @@
+Link: https://gracious-pike-105bc8.netlify.app/
+
 Lo hice desde las 23 hs hasta las 3hs.
 El 9/4/2020 a 10/4/2020
-En plena pandemia del coronavirus
+En plena pandemia del covid
 
 Hice mi primer página en 4 hs
 La mayor parte de la información sacada de basketball-reference
